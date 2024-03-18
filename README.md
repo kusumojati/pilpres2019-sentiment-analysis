@@ -1,6 +1,3 @@
-# pilpres2019-sentiment-analysis
-Create X(Twitter) sentiment analysis using LSTM and Random Forest
-
 # Analisis Sentimen pada Tweet Terkait Pilpres 2019 di Indonesia
 
 Proyek ini bertujuan untuk melakukan analisis sentimen menggunakan data Twitter yang berkaitan dengan pemilihan presiden 2019 di Indonesia. Dataset yang digunakan terdiri dari 1815 baris data tweet.
